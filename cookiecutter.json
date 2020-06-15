@@ -5,7 +5,7 @@
   "project_name": "Python Default Template",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "version": "0.0.0",
-  "python_version": "3.7.4",
+  "python_version": "3.8.2",
   "use_pytest": "y",
   "open_source_license": [
     "MIT license",
